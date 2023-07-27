@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Veljko Klincov</h1>
+<h1 align="center">Hi 👋, I'm Veljko</h1>
 <h3 align="center">I am a third-year student in Applied Software Engineering on Faculty of Technical Sciences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velja01&label=Profile%20views&color=0e75b6&style=flat" alt="velja01" /> </p>
